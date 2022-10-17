@@ -14,3 +14,7 @@ User-agent: Bytespider
 Disallow: /
 User-agent: Googlebot
 Allow: /
+#### - # SITEMAPs # - ####
+
+Sitemap: https://fc-jogodavelha.github.io.com/sitemap.xml
+Sitemap: https://fc-jogodavelha.github.io.com/sitemap_index.xml
