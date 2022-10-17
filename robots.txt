@@ -1,0 +1,16 @@
+# ! # Owned by XCPB CORPORATION # ! #
+
+#####################################
+#         Xcpb Copyright ©          #
+#####################################
+
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: voltron
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: Googlebot
+Allow: /
