@@ -1,1 +1,1 @@
-<div align="center">XCPB&nbsp;CORP</div><hr width="30px">
+<div align="center">XCPB&nbsp;CORP<hr width="300px"></div>
