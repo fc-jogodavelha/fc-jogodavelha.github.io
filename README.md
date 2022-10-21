@@ -1,1 +1,1 @@
-<div><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educativaosasco.com.br%2Ffeira-cultural%2F&psig=AOvVaw3GBTVvPNGPPlyOeggNSZn9&ust=1666446769138000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDyg5O88foCFQAAAAAdAAAAABAD"></div>
+<div align="center">XCPB&nbsp;CORP</div><hr width="30px">
